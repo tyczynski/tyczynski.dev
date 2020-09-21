@@ -27,7 +27,7 @@ const IndexPage = () => (
       </ul>
 
       <hr />
-      <p>My publications (that people who know the Polish language):</p>
+      <p>My publications (for people who know the Polish language):</p>
       <ul>
         <li><a href="https://geek.justjoin.it/vue-js-3-0-nowosci-i-zmiany-co-przyniosla-nowa-wersja" target="_blank" rel="noopener">Vue.js 3.0 – nowości i zmiany. Co przyniosła nowa wersja? </a></li>
         <li><a href="https://www.empressia.pl/blog/179-obserwowanie-zmian-rozmiaru-elementow-z-resize-observer-api" target="_blank" rel="noopener">Obserwowanie zmian rozmiaru elementów z Resize Observer API</a></li>
