@@ -6,7 +6,9 @@ const IndexPage = () => (
       <title>tyczynski.dev</title>
     </Head>
 
-    <main>
+    <main style={{
+      padding: 20,
+    }}>
       <h1>
         Przemysław Tyczyński
       </h1>
