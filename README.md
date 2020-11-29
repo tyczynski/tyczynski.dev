@@ -1,4 +1,4 @@
-# Personal webpage - tyczynski.dev
+# Personal webpage
 
 ## Getting Started
 
