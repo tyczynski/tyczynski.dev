@@ -4,8 +4,8 @@ Personal webpage based on [Next.js](https://nextjs.org) framework.
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/en/) LTS release or greater
-* [yarn](https://yarnpkg.com/) 1.* release
+* [Node.js](https://nodejs.org/en/) `LTS` release or greater
+* [yarn](https://yarnpkg.com/) `1.*` release
 
 ## Getting Started
 
