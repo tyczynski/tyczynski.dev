@@ -30,3 +30,7 @@ $ yarn build
 # Run builded production version
 $ yarn start
 ```
+
+## License
+
+[MIT](LICENSE) | [Przemysław Tyczyński](https://tyczynski.pl)
