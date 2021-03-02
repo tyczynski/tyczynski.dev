@@ -1,4 +1,11 @@
-# Personal webpage
+# tyczynski.pl
+
+Personal webpage based on [Next.js](https://nextjs.org) framework.
+
+## Requirements
+
+* [Node.js](https://nodejs.org/en/) LTS release or greater
+* [yarn](https://yarnpkg.com/) 1.* release
 
 ## Getting Started
 
@@ -23,10 +30,3 @@ $ yarn build
 # Run builded production version
 $ yarn start
 ```
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
