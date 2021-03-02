@@ -2,6 +2,20 @@
   "name": "tyczynski.pl",
   "version": "1.0.2",
   "private": true,
+  "homepage": "https://github.com/tyczynski/tyczynski.pl#readme",
+  "author": {
+    "name": "Przemysław Tyczyński",
+    "url": "https://tyczynski.pl",
+    "email": "przemyslaw@tyczynski.pl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyczynski/tyczynski.pl"
+  },
+  "bugs": {
+    "url": "https://github.com/tyczynski/tyczynski.pl/issues"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
